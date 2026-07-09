@@ -16,11 +16,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=larsmeneer&color=007F79&style=flat-square&label=Profielweergaven" alt="Profielweergaven" />
 &nbsp;
-<a href="https://www.linkedin.com/in/larskooij/"><img src="https://img.shields.io/badge/LinkedIn-Lars%20Kooij-007F79?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;
 <a href="https://larsmeneer.nl"><img src="https://img.shields.io/badge/Website-larsmeneer.nl-350F66?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Website" /></a>
-&nbsp;
-<a href="mailto:info@larsmeneer.nl"><img src="https://img.shields.io/badge/Mail-info%40larsmeneer.nl-350F66?style=flat-square&logo=maildotru&logoColor=white" alt="Mail" /></a>
 
 </div>
 
@@ -102,10 +98,9 @@ Leuk dat je hier bent! Ik ben iemand die graag dingen **uitzoekt, bouwt en aan d
 
 ### 💬 Even bijpraten?
 
-Stuur me gerust een berichtje — ik hoor graag van je!
+Kom gerust langs op mijn website — daar vind je meer over me en kun je een berichtje achterlaten.
 
-<a href="https://www.linkedin.com/in/larskooij/"><img src="https://img.shields.io/badge/Connect%20op%20LinkedIn-007F79?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:info@larsmeneer.nl"><img src="https://img.shields.io/badge/Mail%20mij-350F66?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" /></a>
+<a href="https://larsmeneer.nl"><img src="https://img.shields.io/badge/Bezoek%20larsmeneer.nl-007F79?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website" /></a>
 
 <br /><br />
 
